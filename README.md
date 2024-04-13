@@ -1,4 +1,4 @@
-# About ToolRack
+# About ToolRack [![wakatime](https://wakatime.com/badge/user/62850a07-caf8-470f-86a7-660093b4f5b4/project/018ed264-5da8-44fa-9210-db3b6691c85c.svg)](https://wakatime.com/badge/user/62850a07-caf8-470f-86a7-660093b4f5b4/project/018ed264-5da8-44fa-9210-db3b6691c85c)
 
 Welcome to ToolRack, your one-stop destination for a collection of online text manipulation utilities and more. Developed with a focus on simplicity and efficiency, ToolRack provides a wide range of tools to help you with various text-related tasks quickly and easily.
 
